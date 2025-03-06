@@ -210,3 +210,9 @@ The API implements proper error handling for:
 3. Commit changes
 4. Push to branch
 5. Create Pull Request
+
+## Postman URL Documentation
+https://documenter.getpostman.com/view/41007739/2sAYdmm8ba
+
+## Medium URL Documentation
+https://medium.com/@olamidestephen81/creating-crud-api-nodejs-098d430d7465
